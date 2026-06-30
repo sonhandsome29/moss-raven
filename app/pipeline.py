@@ -13,6 +13,8 @@ from app.upload_openai import OpenAIUploader
 
 
 logging.basicConfig(level=logging.INFO, format="%(message)s")
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("openai").setLevel(logging.WARNING)
 logger = logging.getLogger("optibot-sync")
 
 
