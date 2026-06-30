@@ -1,46 +1,41 @@
-Thái Dương Sơn
+Thai Duong Son
 
-Daily job that pulls public OptiSigns support articles from Zendesk, converts them to clean Markdown, chunks them, and uploads only new or changed content to an OpenAI vector store.
+`kb-raven` scrapes public OptiSigns support articles, converts them to clean Markdown, chunks them, and uploads only new or changed content to an OpenAI vector store.
 
 ## Setup
 
 1. Copy `.env.sample` to `.env`.
 2. Fill in `OPENAI_API_KEY`.
-3. Optionally set `OPENAI_VECTOR_STORE_ID` if reusing an existing vector store.
+3. Optionally set `OPENAI_VECTOR_STORE_ID` to reuse an existing vector store.
 4. Install dependencies with `pip install -r requirements.txt`.
+5. For GitHub Actions, add repo secrets `OPENAI_API_KEY` and optionally `OPENAI_VECTOR_STORE_ID`.
 
 ## Run locally
 
 Run `python main.py`.
 
-The job will:
-- fetch support articles from Zendesk
-- write normalized Markdown to `data/articles/`
-- write chunk files to `data/chunks/`
-- store sync state in `data/manifests/state.json`
-- log `added`, `updated`, and `skipped` counts
+The job re-scrapes Zendesk, writes Markdown to `data/articles/`, writes chunk files to `data/chunks/`, stores sync state in `data/manifests/state.json`, and logs `added`, `updated`, and `skipped`.
 
-Chunking strategy: split by Markdown headings first, then split oversized sections by paragraph with a small overlap so support steps stay grouped while embeddings remain small enough for retrieval.
+Chunking strategy: split by Markdown headings first, then split oversized sections by paragraph with a small overlap so support steps stay grouped for retrieval.
+
+Docker run:
+
+```bash
+docker build -t kb-raven .
+docker run --rm --env-file .env -v ${PWD}/data:/app/data kb-raven
+```
 
 ## Daily job logs
 
-Daily job platform: DigitalOcean Droplet + cron  
-Job logs: `ADD_YOUR_PUBLIC_LOG_LINK_HERE`
+Platform: GitHub Actions scheduled workflow (`.github/workflows/daily-sync.yml`)  
+Workflow link: `https://github.com/<your-user>/<your-repo>/actions/workflows/daily-sync.yml`
 
-Example cron:
-
-```cron
-0 2 * * * cd /opt/kb-raven && docker run --rm --env-file .env -v /opt/kb-raven/data:/app/data kb-raven >> /var/log/kb-raven.log 2>&1
-```
+The workflow runs once per day, uploads `sync.log` as an artifact, and commits the updated `state.json` so delta detection persists across runs.
 
 ## Assistant screenshot
 
-OpenAI Playground sanity-check question:
+Sample question: `How do I add a YouTube video?`
 
-```text
-How do I add a YouTube video?
-```
-
-Screenshot: ![alt text](test1.png)
-![alt text](test2.png)
-![alt text](test3-2.png)
+Screenshot(s): ![Assistant answer](test1.png)
+![Assistant answer](test2.png)
+![Assistant answer](test3.png)

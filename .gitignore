@@ -9,3 +9,4 @@ data/manifests/*.json
 !data/articles/.gitkeep
 !data/chunks/.gitkeep
 !data/manifests/.gitkeep
+!data/manifests/state.json

@@ -1,0 +1,73 @@
+name: Daily Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_VECTOR_STORE_ID: ${{ secrets.OPENAI_VECTOR_STORE_ID }}
+      OPENAI_VECTOR_STORE_NAME: kb-raven
+      OPENAI_MODEL: gpt-4.1-mini
+      ZENDESK_BASE_URL: https://support.optisigns.com
+      ZENDESK_LOCALE: en-us
+      ARTICLE_LIMIT: "30"
+      TARGET_CHUNK_SIZE: "1800"
+      CHUNK_OVERLAP: "200"
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Prepare data directories
+        run: |
+          mkdir -p data/articles
+          mkdir -p data/chunks
+          mkdir -p data/manifests
+
+      - name: Build Docker image
+        run: docker build -t kb-raven .
+
+      - name: Run sync job
+        shell: bash
+        run: |
+          set -euo pipefail
+          docker run --rm \
+            -e OPENAI_API_KEY \
+            -e OPENAI_VECTOR_STORE_ID \
+            -e OPENAI_VECTOR_STORE_NAME \
+            -e OPENAI_MODEL \
+            -e ZENDESK_BASE_URL \
+            -e ZENDESK_LOCALE \
+            -e ARTICLE_LIMIT \
+            -e TARGET_CHUNK_SIZE \
+            -e CHUNK_OVERLAP \
+            -v "${GITHUB_WORKSPACE}/data:/app/data" \
+            kb-raven | tee sync.log
+
+      - name: Upload run log
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-sync-log
+          path: sync.log
+          if-no-files-found: error
+
+      - name: Commit updated state
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data/manifests/state.json; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/manifests/state.json
+          git commit -m "Update sync state [skip ci]"
+          git push
