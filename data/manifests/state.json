@@ -1,4 +1,493 @@
 {
-  "articles": {},
-  "openai_vector_store_id": ""
+  "articles": {
+    "52523606879251": {
+      "slug": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app",
+      "content_hash": "a5b1c4388cdf77588a2ea7df70bc426f9023128687eafc6aa1f4870ca2a869db",
+      "updated_at": "2026-06-11T22:24:43Z",
+      "file_ids": [
+        "file-39vbrxe6EZMkPNHH4gBsRV",
+        "file-6tinTAaQmkXgNAewWggCSa",
+        "file-7dmDzVssjrhAcLQXKbnaTu",
+        "file-945EaTCAzFWZ1uK5w3kbNg",
+        "file-AJLZyXL8aTtedJXfocJmCq",
+        "file-APJYi349jy44sGL6dyF8Q2",
+        "file-HqoR2PXftiCVMpURUtBvfL",
+        "file-KKWk4m3YmgHAU5xU2aDuP5",
+        "file-Wd9SfPQVkPT7CkPp1dj4vQ"
+      ],
+      "chunk_count": 9,
+      "article_path": "data/articles/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md"
+    },
+    "52412502456083": {
+      "slug": "connect-google-meet-hardware-to-optisigns-digital-signage",
+      "content_hash": "52065ce28e807f1160fc6f8c87c6981a890bcd7262c5aa795137a96d75721618",
+      "updated_at": "2026-06-15T19:14:07Z",
+      "file_ids": [
+        "file-2QkD8f9DSvUzqMeKy83yDD",
+        "file-6Wws5ZJbBi4jBVBMXuviva",
+        "file-LJtcE8FGAcMjMBaLqwTZSz",
+        "file-LobKbwcRyG75G1dHNH87uK",
+        "file-NJpWhbesztADZp5gYnqE51",
+        "file-QkZ5RRTZwGQAVQDu436iap",
+        "file-Vh8K5dZgczw4w2AwupSCgC"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/connect-google-meet-hardware-to-optisigns-digital-signage.md"
+    },
+    "52350277262483": {
+      "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
+      "content_hash": "8332b09a57c9f24a564d5edd33f417ae6afb5afe9b5db58c76cae5027a721a91",
+      "updated_at": "2026-06-24T18:39:16Z",
+      "file_ids": [
+        "file-1x7BRQVwCmEUfRHEkdxYjq",
+        "file-4AUgU8EsQaZxvJexbNroFt",
+        "file-4nT3xm6psXXjd122fMLGTT",
+        "file-9MWf15pWe4C3VxaHLpKsJp",
+        "file-D4AnuWu7fTGjzWZRrbk8Fo",
+        "file-DRXHkDvndvKLispHhcvsJm",
+        "file-J4MTNWkeUeZgY3ntjaQkXM",
+        "file-KstGuajJVk3mcPHgiHYwHs",
+        "file-Uj16BNzY47ZArjfABLRbCG"
+      ],
+      "chunk_count": 9,
+      "article_path": "data/articles/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
+    },
+    "52113036672403": {
+      "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
+      "content_hash": "ebd2d99764d7292b07c1527db169976ad2fcefc434520907e5f6585ae309f6bf",
+      "updated_at": "2026-06-15T19:14:16Z",
+      "file_ids": [
+        "file-26a9f3SmHkUXhjMP1q3r7d",
+        "file-4JtC8mTfpv8rCcSLXBQ8Xd",
+        "file-9XHdAiPFSuxk1wn8dTDkZM",
+        "file-DEbcfdZY6bERoQp5jagrX2",
+        "file-DHNAT3mqFwHjwTLLZqKuja",
+        "file-GxLwSQrWYUPDXR4UhNvqYf",
+        "file-Wum8jvuoGF341P8rUkiQgN"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/room-integrations-turn-your-meeting-rooms-into-digital-signage.md"
+    },
+    "52069065128723": {
+      "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
+      "content_hash": "266d56df3683fbd18c64dac91d36dd6dc24517b3a89e1c8502e1bbe13407bb25",
+      "updated_at": "2026-06-11T22:22:00Z",
+      "file_ids": [
+        "file-6eK1Wg8SbHTJiatcMrVsge",
+        "file-JKezgNohxTYfPE6TCC43uL",
+        "file-NM4z1aJXAo2FozqKQ3XPit",
+        "file-Q2NVuQEA91uuDnTKP8bWSx",
+        "file-TueN9GV1i7iKFfBx21bc5D",
+        "file-WUNDuL68BzmohL4LJHhgjC",
+        "file-Xf5qLNeT9M7oAVsLeWYmXx"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/connect-zoom-rooms-to-optisigns-digital-signage.md"
+    },
+    "51343184586643": {
+      "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
+      "content_hash": "ba88d00417e7fce6b37994870b9e48c22efcc2442bb493d50f2af2a947fba8f1",
+      "updated_at": "2026-06-15T19:13:59Z",
+      "file_ids": [
+        "file-17FqELZWdMJXmoxJsxHaQk",
+        "file-GKjzjJtBeatq4LtPX8w52D",
+        "file-JdJgxEFyPtVmPhmvBnRMjf",
+        "file-JukUyoE8CAaxmNvHHLZAR6",
+        "file-Sr6dSP4m5rkvbg26EBJPoV"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
+    },
+    "49039295567891": {
+      "slug": "chromeos-pwa-instructions",
+      "content_hash": "e48b8a0f544c44947917e3ad84a871b542f72b2c4033eb56a58f972a1d1728f6",
+      "updated_at": "2026-05-05T15:48:27Z",
+      "file_ids": [
+        "file-A6fqY8CRGBasyTp2k9SAdj",
+        "file-MhUK1AzEaDyCuSQrw15MmK",
+        "file-Q7KLaNsxLesJ3QyrzSa4Ky",
+        "file-T5B9i2yXHZFAGK9wTzFXCk",
+        "file-WfSybvNpaLBFFynmbF7mfy",
+        "file-XNgW6d1ve3peesc1oa2HG6",
+        "file-Y1WBCZwbX5LSx6sErWqiyH",
+        "file-YYir1b4sWuRFTQykzse55p"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/chromeos-pwa-instructions.md"
+    },
+    "48751096814995": {
+      "slug": "how-to-use-the-google-ads-dashboard-app",
+      "content_hash": "7e3bb0ecef0c1641090924ce56c202c2cd28adcf60311420268c550d78a44d6a",
+      "updated_at": "2026-02-02T17:54:16Z",
+      "file_ids": [
+        "file-2yBfsPcoTpcm1jDfPFnxAK",
+        "file-8yp2Mnxc4NnGrpNbt1pzKR",
+        "file-935ajcszjgyByqwMbmdEWD",
+        "file-D8Upm2E6x94xGpoWQTi8i3",
+        "file-GZXJEUz2BG7Mwdm8QiMRgk",
+        "file-KR77EGAKYgJsC5WBgmgPYP",
+        "file-LbGyctFLoEsB5uK3S4Q8f8"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/how-to-use-the-google-ads-dashboard-app.md"
+    },
+    "48656950622227": {
+      "slug": "how-to-use-the-google-search-console-app",
+      "content_hash": "4cfe3a83a761e76a66bb2e23d8d556635bb289eb81d741ffd57f843e32740f35",
+      "updated_at": "2026-02-02T17:56:42Z",
+      "file_ids": [
+        "file-4V41YKWjyw8kbVB5eUS6Aw",
+        "file-9KGK2v7XrBrqYY8GUc4Keg",
+        "file-EsTfbw7nLDjnqgssVFN2VD",
+        "file-HUs8PgYMXYQb4hJjVDX7L7",
+        "file-PSu3QB5r7TorhXrNxbFiuc",
+        "file-T4MV88DZpxv1ZZadGJQ4f4"
+      ],
+      "chunk_count": 6,
+      "article_path": "data/articles/how-to-use-the-google-search-console-app.md"
+    },
+    "48626115821459": {
+      "slug": "how-to-use-the-youtube-dashboard-app",
+      "content_hash": "b83a085955406200c7cc78e52ba48b81e7d9b4026a027c7d28096be70ccb0d9c",
+      "updated_at": "2026-02-02T15:32:55Z",
+      "file_ids": [
+        "file-8RKaq4SEMYCDGGJvDbpVAq",
+        "file-8cdVEJKrmsFnvp6w8upamM",
+        "file-Bq6NSw2Q5pnoCWBGugNTaK",
+        "file-MXhvcEX9CrgTgSDsUxdx2z",
+        "file-RQeMs1LXHx2TmXypAFjkgR",
+        "file-ToD5E4rojsmo4gDvDBBath"
+      ],
+      "chunk_count": 6,
+      "article_path": "data/articles/how-to-use-the-youtube-dashboard-app.md"
+    },
+    "48241081473043": {
+      "slug": "operational-schedule-troubleshooting",
+      "content_hash": "abb88af2bf335f657c871167aa0097a81b5aa3fbc016de2c350d13b6159b6b96",
+      "updated_at": "2026-04-20T21:26:17Z",
+      "file_ids": [
+        "file-1aUAaN17vTMQwLK1EVLoeB",
+        "file-5oZde32hXzdoaH9o73KSLP",
+        "file-6oTYofYpzLSn3iyxjebD4H",
+        "file-Db4MN1e7qme8TQcTmvBkHM",
+        "file-GX838Aj9dKSEXU9xh5J87r",
+        "file-H9AgCtKGNyxnJZXdP3wSdL",
+        "file-MBLN4xgHoyiHnaXAMz3Be7",
+        "file-PgLyTQhiTk26ZzXC7dLMxR",
+        "file-RnMFgQYbxSqFx9YJWySA58",
+        "file-TNH6rDj3upyxuH7oy5MENv",
+        "file-VVN2PzqpGdDXEHoM6ZuZh4",
+        "file-YN2NcPVHep2NrsNhCKJNfP"
+      ],
+      "chunk_count": 12,
+      "article_path": "data/articles/operational-schedule-troubleshooting.md"
+    },
+    "47616485609491": {
+      "slug": "how-to-use-the-optidev-app",
+      "content_hash": "a8c03507c38115ccbdb60e265f1c8665a2ae98b0f637dbadf53c72521d21fb3a",
+      "updated_at": "2026-02-11T23:03:49Z",
+      "file_ids": [
+        "file-AvRmRiP3Q5H76vKqFyQLwD",
+        "file-S5GMU87Kysx6Eiy7HM5NoC",
+        "file-SCBGcwQEgnhVTexde7ApjX",
+        "file-Srgm3cWa4C3XbqLALdFcEx"
+      ],
+      "chunk_count": 4,
+      "article_path": "data/articles/how-to-use-the-optidev-app.md"
+    },
+    "45619214182803": {
+      "slug": "how-to-set-up-an-outlook-calendar-app-with-shared-permissions",
+      "content_hash": "f9ecae5184e54b22cfc24f6d0b4426f20f0d370b7fc1bd12173cc51d20d51742",
+      "updated_at": "2025-10-17T16:01:18Z",
+      "file_ids": [
+        "file-9uADqYFJda92bWAfWtPqBP",
+        "file-GgXhkELQmtAxE4bEo9NBby",
+        "file-VqHEUxXzSvFFXr6ZmF1cyN",
+        "file-WA1VV9U8NRHhDTvogeFB87"
+      ],
+      "chunk_count": 4,
+      "article_path": "data/articles/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md"
+    },
+    "44890229616403": {
+      "slug": "using-an-enterprise-network-802-1x-with-optisigns",
+      "content_hash": "4fb8ed858baac6e6024bd74140d9c79f834413509690fbd2e49aff06cc0ebbe0",
+      "updated_at": "2026-05-20T18:11:11Z",
+      "file_ids": [
+        "file-ARQsZQFR7SVFPjM2r1zh5U",
+        "file-CWSxgVvqwYWH9QvCQ4dGNn",
+        "file-PcjCRKWKaHY31Y2SyhVrvq",
+        "file-Rtj1x64Kag2Su6qt5wP7Dd"
+      ],
+      "chunk_count": 4,
+      "article_path": "data/articles/using-an-enterprise-network-802-1x-with-optisigns.md"
+    },
+    "43657735780627": {
+      "slug": "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations",
+      "content_hash": "9b6c5b82382516ffa21dc156e41d682d6fee8c1597081b331a3d39cfd1c87236",
+      "updated_at": "2025-08-28T19:28:55Z",
+      "file_ids": [
+        "file-4ZH3yupCzLCvLUMZcMYGzs",
+        "file-9X7m1dUUcaUmw5y1Mq84od",
+        "file-AbPNpgj8j8edVuiSNT4W1H",
+        "file-GpZmKNDXQeDCRzLpy8PCCu",
+        "file-JzY6XPzECUFbPWhm8w79aN",
+        "file-LWhV2KbF599A1qGvajMYti",
+        "file-NUXaWKVJiH48k4tf7pxSKN",
+        "file-Qii9tT56FaMLwCjsVk8ZCa",
+        "file-QztuZ5cPgKUyMLRzmUqxLn",
+        "file-RUiB9wp6F8GMfzK6D16biN",
+        "file-SBBVuqKASNjKEyJt3KPJ7K",
+        "file-VJJvHutYZYbYXHsVmz3TYV"
+      ],
+      "chunk_count": 12,
+      "article_path": "data/articles/user-management-example-chain-restaurant-or-retail-store-with-multiple-locations.md"
+    },
+    "42087942047379": {
+      "slug": "getting-started-with-designer",
+      "content_hash": "af912b57b5bc4a8932f9beb3d518677bf1ba7c542ca11a3b1efd7754e8a3009d",
+      "updated_at": "2025-10-07T17:18:32Z",
+      "file_ids": [
+        "file-1t9m613vgjr8cLnta9S8ZJ",
+        "file-477iazMrHmxQ5S8XAxUSFX",
+        "file-4BKrEkw7YEZ3zeHs9aLVmw",
+        "file-4TZen7hkJzJZantu5W3BYx",
+        "file-6P1KxSL7rkC1TNqsGTq4PF",
+        "file-7DF7iuS6KPQmFw7mfNYmt1",
+        "file-8qGcgGWKs7LWadMR42oTT8",
+        "file-9gkvEQWuuXGGhAfBbNQkDT",
+        "file-9xTZd7MpZGkTBrbXgzhPb3",
+        "file-CfytQxe6SRp8esA2aXqX7T",
+        "file-JPpqcTTc7w5QmvYgfERjTK",
+        "file-Kq7Vm1Mu9qQDV9TGv5HBc8",
+        "file-NFX3egu2D16FvXXcaqmEiH",
+        "file-QXovQKhmXGXbwj36JnbktH",
+        "file-R5XfjESgLScLXv9dDkzbpa",
+        "file-S7xAmZ7CkfGo2HmPyXErKz",
+        "file-TY1RnsAXLvXuREC9xYVmrP"
+      ],
+      "chunk_count": 17,
+      "article_path": "data/articles/getting-started-with-designer.md"
+    },
+    "41432385864595": {
+      "slug": "designer-2-0-new-features",
+      "content_hash": "b08abe48b048ee8c475e98477b447fa13554181f3f49480eb2517ca0bc7abf21",
+      "updated_at": "2026-05-12T14:17:09Z",
+      "file_ids": [
+        "file-7qp5DGMsdpQoqbsJJLjWqS",
+        "file-CaKuiz6f4Hxvdzt1uRTvmd",
+        "file-JR12FEw3a6srUBZbM4vmfY",
+        "file-LnwFDjY9iz2z4Qa56ZjfQr",
+        "file-Nvbo8pWBZjEaw9H6vmkqA9",
+        "file-Nwbzvhuu3mFrUM7Xiw9LDR",
+        "file-RfpiGr4VeoD3oT28zfJ36U",
+        "file-Uqg5waFza3F9UvDFg6Peb9",
+        "file-XBrrsfbaNtUTaepjwpt69e",
+        "file-XGzExTyHHU7SKgRY3ioPLY"
+      ],
+      "chunk_count": 10,
+      "article_path": "data/articles/designer-2-0-new-features.md"
+    },
+    "40736654972563": {
+      "slug": "optisigns-pro-promax-player-troubleshooting-guide",
+      "content_hash": "4a5b7b38c3b460dd2e1c46dcce6de7228d982d438d4309dc6bdfe4bfbd6a38f2",
+      "updated_at": "2026-01-13T21:20:16Z",
+      "file_ids": [
+        "file-4xVdAYm1GcAZTmd5f4vhgK",
+        "file-5TdJLNmyGW4CfpqyWgBA9a",
+        "file-6ydRS9kPHjpRVnNhjbxRVw",
+        "file-74FwtN9mAe3pRcEdFLkQ4x",
+        "file-9Yy5RbyBNXjmHRdAiUvbF2",
+        "file-E5QmBDCxBAEgkrouusHzdq",
+        "file-GLQFeZX88SrTjNMAYg1XB8",
+        "file-NZdX2kZiSBu8K47QrfwXgq",
+        "file-Nny7jYi6doYbz1Zq6u81wT",
+        "file-QrdtB5p3w9qXU5BoHXBVo5",
+        "file-T64titGHMDkRM8CuM13Uom",
+        "file-YDX1A96DM8Ce9gcVwgE3ZZ"
+      ],
+      "chunk_count": 12,
+      "article_path": "data/articles/optisigns-pro-promax-player-troubleshooting-guide.md"
+    },
+    "40671590645651": {
+      "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
+      "content_hash": "8035a24251e86094fcdb01e5ef5a722b4a3ffd7517f389e39e333930564104d9",
+      "updated_at": "2026-04-08T22:33:37Z",
+      "file_ids": [
+        "file-95pYjsUehC5YJLdGz75oZP",
+        "file-FhqebHDLMwkUM86XVjChPu",
+        "file-HKpsTRkgcuegYTazGCF2nM",
+        "file-VUEJS59Ykc1zJJtXGYKmgu",
+        "file-VjtZ8F9b2ry9pkZcvARqYk"
+      ],
+      "chunk_count": 5,
+      "article_path": "data/articles/how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
+    },
+    "40212027797523": {
+      "slug": "disk-encryption",
+      "content_hash": "6d3a455814ee019f42021c81d9dae0f5fe7d93f2490f06dc60dfb0566bfcb3d3",
+      "updated_at": "2025-09-04T16:19:23Z",
+      "file_ids": [
+        "file-RmFdrgq8Ex3uFvfYdMHdWT",
+        "file-TqNDoLNso4tBDxZYYrSgsf"
+      ],
+      "chunk_count": 3,
+      "article_path": "data/articles/disk-encryption.md"
+    },
+    "40147900639891": {
+      "slug": "optistick-troubleshooting-guide",
+      "content_hash": "de8fd4242dd2e0a1d1c04488f0d19ff4cf8f5a35985696e8f4757ba849032bf3",
+      "updated_at": "2026-06-26T13:52:36Z",
+      "file_ids": [
+        "file-2htrtWz3KRGb28D7dwrniy",
+        "file-6GdhgQUSAUmYzcCAfCGGQL",
+        "file-7a5SRZKkS4eYEiTtrc3FqP",
+        "file-AkBZww3s5cHPwhtAJ5FBnv",
+        "file-B7WaGqXJLYE2Qa7gJNXjku",
+        "file-D4avUTVY9ZynKNriwFWGpP",
+        "file-EWbjRkiKkSEJgT2rCERacE",
+        "file-FtAuyQgEVoTJTqUXJtBctV",
+        "file-HYxLu2WGeVZ5HDmi3uwRG9",
+        "file-LQ8DYMwxQgeaQFdSgw92C3",
+        "file-QdwL3kMBEjQ6wH86Ax8HU4",
+        "file-T55AMkfaSm6VXm8u3Eavtu",
+        "file-VZjf5LyxKkzbWRf8DTfXJA",
+        "file-Vrp8AqTfGcCbQNvzCfBTAS",
+        "file-Y8NNGGq1zyWPSkYWB6zANH"
+      ],
+      "chunk_count": 15,
+      "article_path": "data/articles/optistick-troubleshooting-guide.md"
+    },
+    "39488874989587": {
+      "slug": "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick",
+      "content_hash": "442517c8c5876a1ec8497c6cb15e8d4830c7acd69c85a0c6c9e87b4ec90ef4b1",
+      "updated_at": "2025-09-04T15:25:54Z",
+      "file_ids": [
+        "file-8ij2Ynav4mTuZRCUSWFxTJ"
+      ],
+      "chunk_count": 1,
+      "article_path": "data/articles/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md"
+    },
+    "39250660729747": {
+      "slug": "how-to-use-the-tableau-app",
+      "content_hash": "036e12d73f5826a80cd6aa686da2c245c4d4bb644915fea8a761587838e0c827",
+      "updated_at": "2026-01-06T22:36:49Z",
+      "file_ids": [
+        "file-2anP9HF5HW7GNyueArFKKA",
+        "file-3Z1ULJVyQMDj7Z4RxW18r5",
+        "file-5rbFbCopDLz18mHb7NQusk",
+        "file-9TKX5Zwzy2j8pRKbo3WaVU",
+        "file-BwN91nAqEAu6PhBsFNqEmB",
+        "file-CZPmQRwUWH1DQQVJ8PR6h5",
+        "file-GtW61heorsQuPrXjQPGgC8",
+        "file-QrVByqXYfjsC1w9PymCDCd"
+      ],
+      "chunk_count": 8,
+      "article_path": "data/articles/how-to-use-the-tableau-app.md"
+    },
+    "39080869746067": {
+      "slug": "handle-oauth-authentication-using-api-gateway-pre-request-configuration",
+      "content_hash": "2879e5476c21512f703de6913589c57590df4a7a2cb528c08a4806adc229867d",
+      "updated_at": "2025-08-28T18:42:06Z",
+      "file_ids": [
+        "file-E6E3oBThESyyQ8F8wY4X9i",
+        "file-H7ZW27asZnTLSVod1y36DV",
+        "file-HtraiJFckP6JPNfTKszhec",
+        "file-Jekb6vS4dAR7G2wX9bV1y7"
+      ],
+      "chunk_count": 4,
+      "article_path": "data/articles/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
+    },
+    "38062664690195": {
+      "slug": "tagging-in-optisigns",
+      "content_hash": "df9ff0c0770ec4065444624c71e62d97dfe3b227c0d884b66e0fde58437e2ece",
+      "updated_at": "2025-09-09T19:34:07Z",
+      "file_ids": [
+        "file-BNrnbV4Q8P35qsJFbKXVck",
+        "file-Bxz6atFH4CRwPKtPR8cns5",
+        "file-CgqdBThi6oMVp6VwbzABcr",
+        "file-EuBQzP4Xrcqa9K6ko6j6qY",
+        "file-Fg6VvRYDqkpcvWsJbwhEB7",
+        "file-GT5saKLe366JQgQMHseJL8",
+        "file-H3gR8Jzb4GTt6FiwJCoV6W",
+        "file-Q3jHLwXJsjawwyz6JQVZ5X",
+        "file-R2ESz5eD3LqtTpdWtaNXXn"
+      ],
+      "chunk_count": 9,
+      "article_path": "data/articles/tagging-in-optisigns.md"
+    },
+    "37966066335891": {
+      "slug": "getting-started-with-an-optisigns-free-trial",
+      "content_hash": "67d37bb8a01ef62c6da9543e9ba36e0f50512e66a3f695e8c01866d927adc71f",
+      "updated_at": "2025-09-04T18:44:24Z",
+      "file_ids": [
+        "file-1Pp1Q5wi9d1yUEYnwWkdmi",
+        "file-7Jc8YzEL49fUsbzgSLcp4W",
+        "file-EY9SZnfjx6Pft22gzzyMMA"
+      ],
+      "chunk_count": 3,
+      "article_path": "data/articles/getting-started-with-an-optisigns-free-trial.md"
+    },
+    "36911639377683": {
+      "slug": "how-to-use-optisigns-with-microsoft-teams-rooms",
+      "content_hash": "92b1ab6108a6d3cf1debcb1b6a683eb9206f8daba375c74dbb8239829818b5f7",
+      "updated_at": "2025-09-04T18:42:32Z",
+      "file_ids": [
+        "file-1WRgkzCS8dMjRq85GuEfhE",
+        "file-6sCp1R1VQ51WvGPYrASzzD",
+        "file-M4ZZkQWGdgnfCzoCRMH1Sz",
+        "file-RSNMHRRsUWYij9aAj3X5zR",
+        "file-SxgUjKF7phqKa86pBXy3nB",
+        "file-YGMfNNNuSAQD3NfBb44Mwk"
+      ],
+      "chunk_count": 6,
+      "article_path": "data/articles/how-to-use-optisigns-with-microsoft-teams-rooms.md"
+    },
+    "36501302096915": {
+      "slug": "how-to-access-the-troubleshooting-page-of-the-optisigns-player",
+      "content_hash": "dc338c2f7c0de2218fbc0eb6e17ace42712b1446a2cfd4cbdc7af0500d05d713",
+      "updated_at": "2025-09-02T20:08:24Z",
+      "file_ids": [
+        "file-7oLjBKvuJFz1TYsBYPfQMo",
+        "file-8vogcjCBQ6gCREQRGN2mXf",
+        "file-Jxd5aB6hSYsifBeztHkovw",
+        "file-L7vfnD5FacPoDuudk5bydi",
+        "file-QsdcVNc5NvVK88iM2ntcAv",
+        "file-V8ymsUuFexJNdYh2c2U9Q8"
+      ],
+      "chunk_count": 6,
+      "article_path": "data/articles/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md"
+    },
+    "35749502945555": {
+      "slug": "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments",
+      "content_hash": "ce2dc3b6cf6f3c9a1a4c99968dc1af18835460e7c211e69d0fb8140fb076e0f2",
+      "updated_at": "2025-08-29T16:58:30Z",
+      "file_ids": [
+        "file-NYPzh9k3chaY2fYCkVWrYL",
+        "file-WP7xEuAPM5QQbq2rfXuJ1E"
+      ],
+      "chunk_count": 2,
+      "article_path": "data/articles/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md"
+    },
+    "35184720136595": {
+      "slug": "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens",
+      "content_hash": "e42a8b3b8c70deae81d0504f4438a3c3dffcaf4b8d3ed58a5a4d92849a26a62b",
+      "updated_at": "2025-09-04T16:54:34Z",
+      "file_ids": [
+        "file-7KYy76TWmXpTNpzimNcvru",
+        "file-8hAJ77Ysa5kcKefguQHHQK",
+        "file-8kPi7XcVGYTFq8ttvervsE",
+        "file-9d6djL7NMgzUmoteWRi6Pz",
+        "file-AF8ZU4uBrswScTMuJAko4x",
+        "file-Bh4EdTS4JWHqfKjMAo6v2Y",
+        "file-GiyctMXtShRsjG4phsEp6y",
+        "file-LfXLU1NBfeUx7DQSRqTvFx",
+        "file-LzQv1gdeNjbppN6Pvobn6a",
+        "file-M7pY44P1CLaZu281Utu63g",
+        "file-SyqXBJEUNzexa3P7NqbGpD"
+      ],
+      "chunk_count": 11,
+      "article_path": "data/articles/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
+    }
+  },
+  "openai_vector_store_id": "vs_6a43e5d2d38c8191aa75dd34e317c281"
 }
