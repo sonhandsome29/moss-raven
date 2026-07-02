@@ -86,16 +86,20 @@
     },
     "51343184586643": {
       "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
-      "content_hash": "ba88d00417e7fce6b37994870b9e48c22efcc2442bb493d50f2af2a947fba8f1",
-      "updated_at": "2026-06-15T19:13:59Z",
+      "content_hash": "a2f127678728e040039d67b776354ae336f2957d20090eed51536e2458ef0306",
+      "updated_at": "2026-07-01T16:55:46Z",
       "file_ids": [
-        "file-17FqELZWdMJXmoxJsxHaQk",
-        "file-GKjzjJtBeatq4LtPX8w52D",
-        "file-JdJgxEFyPtVmPhmvBnRMjf",
-        "file-JukUyoE8CAaxmNvHHLZAR6",
-        "file-Sr6dSP4m5rkvbg26EBJPoV"
+        "file-6jPAwiELk9SKmpzEncCzh4",
+        "file-7krnXnFBGZrnPyyK2bDuQK",
+        "file-B4iLUdd7SoRTTtva1QGgJk",
+        "file-DCUqakFQXiJ2M34X3Jwupr",
+        "file-HU3sRp1LXRW3iXhvg38wEy",
+        "file-JTV4FtWpJUhiVTvA4w4us1",
+        "file-Qn9rpLW6SjpFnhMZ2S12b2",
+        "file-RYQPCWutHm5mJxADGkdt8g",
+        "file-TFVztzv2CTMVPq6hqTrB8C"
       ],
-      "chunk_count": 7,
+      "chunk_count": 9,
       "article_path": "data/articles/connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
     },
     "49039295567891": {
@@ -289,21 +293,21 @@
     },
     "40736654972563": {
       "slug": "optisigns-pro-promax-player-troubleshooting-guide",
-      "content_hash": "4a5b7b38c3b460dd2e1c46dcce6de7228d982d438d4309dc6bdfe4bfbd6a38f2",
+      "content_hash": "b05b898df5946f95e84c23b2ec29e87efab731ab78354a788c1fabc9e408d6c7",
       "updated_at": "2026-01-13T21:20:16Z",
       "file_ids": [
-        "file-4xVdAYm1GcAZTmd5f4vhgK",
-        "file-5TdJLNmyGW4CfpqyWgBA9a",
-        "file-6ydRS9kPHjpRVnNhjbxRVw",
-        "file-74FwtN9mAe3pRcEdFLkQ4x",
-        "file-9Yy5RbyBNXjmHRdAiUvbF2",
-        "file-E5QmBDCxBAEgkrouusHzdq",
-        "file-GLQFeZX88SrTjNMAYg1XB8",
-        "file-NZdX2kZiSBu8K47QrfwXgq",
-        "file-Nny7jYi6doYbz1Zq6u81wT",
-        "file-QrdtB5p3w9qXU5BoHXBVo5",
-        "file-T64titGHMDkRM8CuM13Uom",
-        "file-YDX1A96DM8Ce9gcVwgE3ZZ"
+        "file-19j2iMyGRX7fuGep8dFbwn",
+        "file-2mHCbCuBqoy3AEFxCDCQ3T",
+        "file-4V83kTo6FFYogHRCdfzrUX",
+        "file-5o1s5XLQ6oDFnBgAaMufoo",
+        "file-B3vF3p5E41eaNb4fjx2Cer",
+        "file-C2ZAavQKth67cSRKZHvkgp",
+        "file-CBVjRqUQdmDDvntnWu3a47",
+        "file-Hhu77o3UeLZJ7STTNQAHFD",
+        "file-M42NTiTCVmN9V6hce7mo1F",
+        "file-NK6YPwYjQCQmUaEU6YuGfA",
+        "file-VjF843gf2gUKZ9LsFuDV2k",
+        "file-XqKs4zNus8QJYzvFXhGE9L"
       ],
       "chunk_count": 12,
       "article_path": "data/articles/optisigns-pro-promax-player-troubleshooting-guide.md"
@@ -487,6 +491,34 @@
       ],
       "chunk_count": 11,
       "article_path": "data/articles/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
+    },
+    "53095698149011": {
+      "slug": "using-the-japan-earthquake-app",
+      "content_hash": "f2401ac1567d0140de97467e5418eca8576c2955f424dc11a6ac8941df79e252",
+      "updated_at": "2026-07-01T21:56:50Z",
+      "file_ids": [
+        "file-GKf2r5S3PfAdAsNo3awsgT",
+        "file-L3izcCMmh7T5Jtr9cJvsYC",
+        "file-XcjNiSt948Ei7RWH1vxazj"
+      ],
+      "chunk_count": 3,
+      "article_path": "data/articles/using-the-japan-earthquake-app.md"
+    },
+    "53028011485715": {
+      "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
+      "content_hash": "861726743a7e935da445616746edc5b7224e407a401c05562f10be8007af1a7f",
+      "updated_at": "2026-07-01T21:59:22Z",
+      "file_ids": [
+        "file-4gURktaCvdVbWgaLgCj213",
+        "file-8QnDAs1BqLD66jgwhMQJ7Z",
+        "file-9eeTPC9GB9dfL7MUvtPcfZ",
+        "file-J6g7RvjDoVMyroeyUiLw91",
+        "file-KP5zKUf9nT2QwGzgy1QDN6",
+        "file-UbojAm93ve8rtDYkEA475J",
+        "file-YR4FbQJ2MPWcr2zYcTDQ7W"
+      ],
+      "chunk_count": 7,
+      "article_path": "data/articles/how-to-display-a-snowflake-dashboard-with-optisigns.md"
     }
   },
   "openai_vector_store_id": "vs_6a43e5d2d38c8191aa75dd34e317c281"
