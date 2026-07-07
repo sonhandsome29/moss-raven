@@ -494,12 +494,12 @@
     },
     "53095698149011": {
       "slug": "using-the-japan-earthquake-app",
-      "content_hash": "5fddbdc23c79e54ec47134690e0d8af1985df3ea1f93e178965e095b2323bfee",
-      "updated_at": "2026-07-02T14:16:18Z",
+      "content_hash": "1115da795e0f87b1b40a27104275dd063fe7913d52c38d793e6709907510f216",
+      "updated_at": "2026-07-06T14:22:20Z",
       "file_ids": [
-        "file-42yg124dDzqqukE82Xu3Rj",
-        "file-Tqx4FdXMitQwqHVAmSZCL4",
-        "file-UwRpnqoUDrq9HLEiSjrZRf"
+        "file-2rFwkhbcotss2FRHFtXmUe",
+        "file-7gNuy9aWfpStumY1aQKS6k",
+        "file-CXwzSxxQyMLjuXaHjtzcx5"
       ],
       "chunk_count": 3,
       "article_path": "data/articles/using-the-japan-earthquake-app.md"
@@ -519,6 +519,19 @@
       ],
       "chunk_count": 7,
       "article_path": "data/articles/how-to-display-a-snowflake-dashboard-with-optisigns.md"
+    },
+    "53216900345875": {
+      "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
+      "content_hash": "3914880e84f4030e3458c5f259e35beb92733243eb926c6672b283438474644c",
+      "updated_at": "2026-07-06T15:29:04Z",
+      "file_ids": [
+        "file-9yAWPxp8bEgmJtAFASqoJ6",
+        "file-CnYAjfVvjAWCZEVTiYr3Nw",
+        "file-GN3zQhnj9cfqbeCLLL423g",
+        "file-TjNxmpFEo32AC3qD58us2C"
+      ],
+      "chunk_count": 4,
+      "article_path": "data/articles/what-access-does-optisigns-have-to-my-account-and-devices.md"
     }
   },
   "openai_vector_store_id": "vs_6a43e5d2d38c8191aa75dd34e317c281"
