@@ -543,6 +543,27 @@
       ],
       "chunk_count": 4,
       "article_path": "data/articles/refer-earn-optisigns-referral-program.md"
+    },
+    "53497007807251": {
+      "slug": "device-management-and-mass-provisioning",
+      "content_hash": "163096e13fc2d178e33929412f4ffd49ee4e2c46b18fb277d0516df12b6a2f3b",
+      "updated_at": "2026-07-16T16:39:52Z",
+      "file_ids": [
+        "file-3kDJPcXAgjs2wGG34rs3dn",
+        "file-3vExVaB6q3xCDwf7jn2D3i",
+        "file-4br5M4ofypu9RnRJ7vv9yb",
+        "file-64sPApisrTDsZw3PUs1ZL7",
+        "file-AmD7CWwKcCyhuhik2ZDczn",
+        "file-EPdbndgbtBNGQcrWf14MWf",
+        "file-FgqbChBWh2kqn2hPuqvzWA",
+        "file-FrsVT96qokYESuUahYRSpi",
+        "file-GqPedUDopj19AYRgC4y8cB",
+        "file-QpcHqtxeU9NmFz46LjDSAN",
+        "file-VBULfDk3GSA5x5bGwgm3LK",
+        "file-YSu7T5fNJBPC2ercAu9RpX"
+      ],
+      "chunk_count": 12,
+      "article_path": "data/articles/device-management-and-mass-provisioning.md"
     }
   },
   "openai_vector_store_id": "vs_6a43e5d2d38c8191aa75dd34e317c281"
