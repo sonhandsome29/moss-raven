@@ -68,16 +68,16 @@
     },
     "52069065128723": {
       "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
-      "content_hash": "266d56df3683fbd18c64dac91d36dd6dc24517b3a89e1c8502e1bbe13407bb25",
-      "updated_at": "2026-06-11T22:22:00Z",
+      "content_hash": "a20b4816c4eb6c2ceb81ac67ca51ffbc1596fafda842e4775a72ce1a5f714de1",
+      "updated_at": "2026-07-17T22:17:54Z",
       "file_ids": [
-        "file-6eK1Wg8SbHTJiatcMrVsge",
-        "file-JKezgNohxTYfPE6TCC43uL",
-        "file-NM4z1aJXAo2FozqKQ3XPit",
-        "file-Q2NVuQEA91uuDnTKP8bWSx",
-        "file-TueN9GV1i7iKFfBx21bc5D",
-        "file-WUNDuL68BzmohL4LJHhgjC",
-        "file-Xf5qLNeT9M7oAVsLeWYmXx"
+        "file-1ipcG9RHd2qcvHBAbvDu1a",
+        "file-7uhzLwrukKGZ6CbMzwxv4m",
+        "file-APneZjXCBdD16j2z5D6FG9",
+        "file-DLkswMzeyyBadix9K6sTjd",
+        "file-EbMbeD33i1Du5rfJ929LBY",
+        "file-M9G8buJpYfgu6VzMpWmNyC",
+        "file-SfmYmJsM1aoHtjwvqKd5fB"
       ],
       "chunk_count": 7,
       "article_path": "data/articles/connect-zoom-rooms-to-optisigns-digital-signage.md"
