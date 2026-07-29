@@ -388,13 +388,13 @@
     },
     "39080869746067": {
       "slug": "handle-oauth-authentication-using-api-gateway-pre-request-configuration",
-      "content_hash": "2879e5476c21512f703de6913589c57590df4a7a2cb528c08a4806adc229867d",
-      "updated_at": "2025-08-28T18:42:06Z",
+      "content_hash": "ac36a9f30ffe0f01d9fc7786412368d61a16ddae274e301eb6a4cd97bcf31c4f",
+      "updated_at": "2026-07-28T20:42:44Z",
       "file_ids": [
-        "file-E6E3oBThESyyQ8F8wY4X9i",
-        "file-H7ZW27asZnTLSVod1y36DV",
-        "file-HtraiJFckP6JPNfTKszhec",
-        "file-Jekb6vS4dAR7G2wX9bV1y7"
+        "file-Au84GGVn2Uodd6MtQqSceU",
+        "file-K3Q285vUoonxxjLdntQFds",
+        "file-TWiA4mpcvwVMqU3ujEPpX4",
+        "file-V4LHJzFRGWWpqwqVuysg5c"
       ],
       "chunk_count": 4,
       "article_path": "data/articles/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
