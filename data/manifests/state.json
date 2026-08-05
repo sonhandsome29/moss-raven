@@ -564,6 +564,24 @@
       ],
       "chunk_count": 12,
       "article_path": "data/articles/device-management-and-mass-provisioning.md"
+    },
+    "53952018650515": {
+      "slug": "how-to-display-databricks-dashboards-on-optisigns",
+      "content_hash": "4d258b4540536954a9bc79ce55fc4f5e244c07b71311025c06a90afc50da69ec",
+      "updated_at": "2026-08-04T17:57:34Z",
+      "file_ids": [
+        "file-1ASHBdGZsCcQVMfxDYEEGU",
+        "file-8Y1bu32ApmEDezV2WGyUpi",
+        "file-DYWMpQ5nkkSHDgxi7PQbaK",
+        "file-NxAJ3Yb3QAjsL3Lj11kSeo",
+        "file-UGa74ph3f9hu3JsC8c4K3B",
+        "file-VZvdEbfmpDqXy4YyUPd94G",
+        "file-WZ659MigYUCNspRhkh7pGt",
+        "file-XQvSg2TLgEzTf1Fzmh839V",
+        "file-XjTk6ZPEepBhwpJeobJwf1"
+      ],
+      "chunk_count": 9,
+      "article_path": "data/articles/how-to-display-databricks-dashboards-on-optisigns.md"
     }
   },
   "openai_vector_store_id": "vs_6a43e5d2d38c8191aa75dd34e317c281"
