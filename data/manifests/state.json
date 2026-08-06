@@ -567,21 +567,38 @@
     },
     "53952018650515": {
       "slug": "how-to-display-databricks-dashboards-on-optisigns",
-      "content_hash": "4d258b4540536954a9bc79ce55fc4f5e244c07b71311025c06a90afc50da69ec",
-      "updated_at": "2026-08-04T17:57:34Z",
+      "content_hash": "c05d97882dd61cd8e19751ad89ecc4c1d4192f94e2a422115b618328236a601e",
+      "updated_at": "2026-08-05T16:53:02Z",
       "file_ids": [
-        "file-1ASHBdGZsCcQVMfxDYEEGU",
-        "file-8Y1bu32ApmEDezV2WGyUpi",
-        "file-DYWMpQ5nkkSHDgxi7PQbaK",
-        "file-NxAJ3Yb3QAjsL3Lj11kSeo",
-        "file-UGa74ph3f9hu3JsC8c4K3B",
-        "file-VZvdEbfmpDqXy4YyUPd94G",
-        "file-WZ659MigYUCNspRhkh7pGt",
-        "file-XQvSg2TLgEzTf1Fzmh839V",
-        "file-XjTk6ZPEepBhwpJeobJwf1"
+        "file-6fh7jrXN9sAKLFCLXntYrn",
+        "file-BoauU7cTr55eiZsT8jjNev",
+        "file-DpvvLyVCCJkqdP3Vh8Rc2b",
+        "file-EB8i48C8QdaHwuD3ZWDBnD",
+        "file-LMEfT3u7oJJ7YhHWaSJQNk",
+        "file-MSN3VzXK6V5GoHu9VmB5v8",
+        "file-Rxz2nB8pXqJEdsPSwVRo9G",
+        "file-T5AnXNwg7En6yUhuaQVC8u",
+        "file-XvBrQQraSiJUkmVvu54bXk"
       ],
       "chunk_count": 9,
       "article_path": "data/articles/how-to-display-databricks-dashboards-on-optisigns.md"
+    },
+    "54095075680275": {
+      "slug": "optidev-add-on-free-trial-and-pricing",
+      "content_hash": "11b51c80a09220b74ab6a336ee54774ffe03e73c90813ed0dc48913c45f06a76",
+      "updated_at": "2026-08-05T18:22:19Z",
+      "file_ids": [
+        "file-9YygQgaWWrQYNVS5ugpJ4r",
+        "file-AXd4JzS1JpwNapjWsWStic",
+        "file-HsfQsczw4Rq6X9vgK6F5wa",
+        "file-JekHkYBXkWywsAnirM6FjD",
+        "file-LgriGoydnfReXMsQmx5J3P",
+        "file-QeUhoAH9UScG4oKwsSBB1u",
+        "file-XLRo5ySEZ5PDcfGhoo7vnr",
+        "file-XWR1EMLpcsUAqm75vbmDhb"
+      ],
+      "chunk_count": 8,
+      "article_path": "data/articles/optidev-add-on-free-trial-and-pricing.md"
     }
   },
   "openai_vector_store_id": "vs_6a43e5d2d38c8191aa75dd34e317c281"
