@@ -567,20 +567,24 @@
     },
     "53952018650515": {
       "slug": "how-to-display-databricks-dashboards-on-optisigns",
-      "content_hash": "c05d97882dd61cd8e19751ad89ecc4c1d4192f94e2a422115b618328236a601e",
-      "updated_at": "2026-08-05T16:53:02Z",
+      "content_hash": "79d6e7bf4a4722400db67a848df9cd642467f5d4afe5adbd86ba1bd19bb2164f",
+      "updated_at": "2026-08-11T19:04:29Z",
       "file_ids": [
-        "file-6fh7jrXN9sAKLFCLXntYrn",
-        "file-BoauU7cTr55eiZsT8jjNev",
-        "file-DpvvLyVCCJkqdP3Vh8Rc2b",
-        "file-EB8i48C8QdaHwuD3ZWDBnD",
-        "file-LMEfT3u7oJJ7YhHWaSJQNk",
-        "file-MSN3VzXK6V5GoHu9VmB5v8",
-        "file-Rxz2nB8pXqJEdsPSwVRo9G",
-        "file-T5AnXNwg7En6yUhuaQVC8u",
-        "file-XvBrQQraSiJUkmVvu54bXk"
+        "file-1hMXoZVxDZHdTNKToHrUC3",
+        "file-Br8JgHZf39EiAGtzV3hh9E",
+        "file-D6xToZyam1NDm4TMqRM5mJ",
+        "file-KHXaQo9bwgt7SkVQjupDm6",
+        "file-LQnNNAi4AjA5QazToVcwLd",
+        "file-NT13ayS24YNzRjZL4RY7Fe",
+        "file-PmFGcBa652jb2afBVLmHDR",
+        "file-QwZAuScFmqMUqgXs4u4AjQ",
+        "file-RMWUErPn31cHCDXNJ7R1s1",
+        "file-RwZLe8MQredvLbFQvxuLY2",
+        "file-SfJgP3X7hetQwxPAgJGvZ8",
+        "file-TqzG5xixaXSGj9Jt3r1SRy",
+        "file-WJyDQPnGTGgNMapkKKBZkQ"
       ],
-      "chunk_count": 9,
+      "chunk_count": 13,
       "article_path": "data/articles/how-to-display-databricks-dashboards-on-optisigns.md"
     },
     "54095075680275": {
