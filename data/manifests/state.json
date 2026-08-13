@@ -492,12 +492,12 @@
     },
     "53095698149011": {
       "slug": "using-the-japan-earthquake-app",
-      "content_hash": "8c55303ca2f82b9ecd16fdf9f7b9b8d77e02dee912038e6bb1ebd8f1ad8281ef",
-      "updated_at": "2026-07-08T18:39:51Z",
+      "content_hash": "0527a8475a0fa027f36e4f88a43be31ca59a0dd3f33091f603fd6b1e6e539a60",
+      "updated_at": "2026-08-12T14:38:37Z",
       "file_ids": [
-        "file-9gBxTSZfRFqT7fw9yvcRPZ",
-        "file-V6ko3F8R4YQhMYoEeodygs",
-        "file-W6SBevKEGU1JjYjPRK8Xd2"
+        "file-8p1epiVydUwNgQengUni2x",
+        "file-AX2WShLcDgpYUUJ4YYndSd",
+        "file-VX6U2yMKtsoBePBNs326XH"
       ],
       "chunk_count": 3,
       "article_path": "data/articles/using-the-japan-earthquake-app.md"
