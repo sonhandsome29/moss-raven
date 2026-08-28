@@ -36,20 +36,26 @@
     },
     "52350277262483": {
       "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
-      "content_hash": "8332b09a57c9f24a564d5edd33f417ae6afb5afe9b5db58c76cae5027a721a91",
-      "updated_at": "2026-06-24T18:39:16Z",
+      "content_hash": "c8b0a7405516fa2185e9a8783c609bdbfeb100d62810a477e5557a88005ef146",
+      "updated_at": "2026-08-27T19:45:55Z",
       "file_ids": [
-        "file-1x7BRQVwCmEUfRHEkdxYjq",
-        "file-4AUgU8EsQaZxvJexbNroFt",
-        "file-4nT3xm6psXXjd122fMLGTT",
-        "file-9MWf15pWe4C3VxaHLpKsJp",
-        "file-D4AnuWu7fTGjzWZRrbk8Fo",
-        "file-DRXHkDvndvKLispHhcvsJm",
-        "file-J4MTNWkeUeZgY3ntjaQkXM",
-        "file-KstGuajJVk3mcPHgiHYwHs",
-        "file-Uj16BNzY47ZArjfABLRbCG"
+        "file-3QhwmPrznK2Gs6g5YXzUoq",
+        "file-4d8ZJ1ZPhfs6EsssZMFoyU",
+        "file-7mxA7Nh9TBmc2R58T13YFV",
+        "file-8mpvVTuoL4ZRFjA2DjFRxc",
+        "file-D7i26KCYGUVXHkva2PvebZ",
+        "file-DYanr6aEjgu6kSUrVXMCKV",
+        "file-GgjguamJyNvDt44Xjd5as5",
+        "file-HwvT8yqYChNyPGsBNXw8zo",
+        "file-KdkLG3BXwaZs6oBUHfuz2Q",
+        "file-NhcwVC79FRujvkGsW2C6TQ",
+        "file-PpcoFeXUPpifpUZbCNZts1",
+        "file-PxBfPEpLjvNAkqjZBiR56y",
+        "file-R9SNVCJSC8PJb2c68jx7UY",
+        "file-S9RXfyUHmdTCVi3wzcZ95M",
+        "file-WeSvcetApWvVoAjTX3DDZw"
       ],
-      "chunk_count": 9,
+      "chunk_count": 15,
       "article_path": "data/articles/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
     },
     "52113036672403": {
